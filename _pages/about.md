@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Scholar at Ca'Foscari University, Venice. My aim is to make the internet a secure place. My research focuses on privacy and security-related issues on the internet,  data measurements,  and GDPR. I'm currently working  with Software and System Verification (SSV)  research group under the supervision of  Stefano Calzavara .  I have also worked as a research intern with Secure Web Application Group under the supervision of Ben Stock at CISPA Helmholtz Center for Information Security  . I obtained my master degree in Information and Communication Engineering from CQUPT China in 2019 and got Outstanding Graduate Award
+I am a PhD Scholar at Ca'Foscari University, Venice. My aim is to make the internet a secure place. My research focuses on privacy and security-related issues on the internet,  data measurements,  and GDPR. I'm currently working  with  [Software and System Verification (SSV)](https://ssv.dais.unive.it/people/)  research group under the supervision of  Stefano Calzavara .  I have also worked as a research intern with Secure Web Application Group under the supervision of Ben Stock at CISPA Helmholtz Center for Information Security  . I obtained my master degree in Information and Communication Engineering from CQUPT China in 2019 and got Outstanding Graduate Award
 
 
 
