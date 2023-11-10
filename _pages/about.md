@@ -13,6 +13,20 @@ I am a PhD Scholar at Ca'Foscari University, Venice. My aim is to make the inter
 Before that, I obtained my master's degree in Information and Communication Engineering from CQUPT China in 2019 and got Outstanding Graduate Award. I worked under the supervision of [Rong Chai](https://dl.acm.org/profile/81456622539). 
 
 
+Awards, Honors, and Fellowships
+======
+
+* May 2022 Best Performance Award – European Parliament - Venice Universities Model European Union
+* Jun 2021 Summer School OPLSS – Oregon State University USA
+* Apr 2021 Best Performance Award – European Parliament - Venice Universities Model European Union
+* Jun 2019 Outstanding Graduate Award – Master Degree 2019
+* Nov 2020 Italian Ph.D. Fellowship
+* Jun 2019 Best Performance Award – United States Academic Decathlon
+* Jun. 2019 Best Paper Award, China
+* Dec. 2017 First Prize “One Belt One Road Business Idea Challenge, China                                                            	
+* Sep 2020  PhD Representative – Ca’Foscari University Venice
+* Mar 2018  Vice President – International Students Association CQUPT China
+* Jul. 2016 Chinese Scholarship Award
 
 
 What's New?
