@@ -19,7 +19,7 @@ What's New?
 ======
 
 
-Aug 2023, Research work accepted at ACM Transactions on Web Journal
+* Aug 2023, Research work accepted at ACM Transactions on Web Journal
 
 Mar 2023, Joined SWAG research  group at CISPA Germany as a visiting Ph.D. scholar under the supervision of Ben Stock
 
@@ -27,7 +27,7 @@ May 2022, Had a talk at Ca'Foscari University
 
 Apr 2022, Presented our paper [Video] at Madweb-NDSS 2022 
 
-Feb 2022, Research work accepted at Madweb-NDSS 2022
+Feb 2022, [Research work](https://www.ndss-symposium.org/wp-content/uploads/madweb2022_23005_paper.pdf) accepted at Madweb-NDSS 2022
 
 May 2022, Best Performance Award – Venice Universities Model European Union 
 
