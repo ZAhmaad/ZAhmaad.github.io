@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Scholar at Ca'Foscari University, Venice"
   location         : "Venice, Italy"
   employer         :
-  LinkedIn         : "https://www.linkedin.com/in/zubair-engineer/"
+  LinkedIn         : 
   googlescholar    : "https://scholar.google.com/citations?user=f_XtH6kAAAAJ&hl=en"
   email            : "zubair.ahmad@unive.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZAhmaad"
+  github           : "ZAhmaad"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/zubair-engineer/"
+  LinkedIn         : "zubair-engineer"
   orcid            :
   pinterest        :
   soundcloud       :
