@@ -7,9 +7,8 @@ date: October 01
 year: 2023
 authors: <b>Zubair Ahmad</b>, Samuele Casarin, Stefano Calzavara
 venue: 'Transactions on Web Journal (TWEB)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3623382'
 citation:
 ---
 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
