@@ -15,7 +15,7 @@ Before that, I obtained my master's degree in Information and Communication Engi
 My Research interests are:
 ======
 
-* Internet and Web Measurement 
+* Internet and Web Measurements 
 * Data Privacy and Protection
 * Web Privacy and Security
 * EU Compliance regulations, GDPR
