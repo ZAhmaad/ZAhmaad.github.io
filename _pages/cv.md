@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - https://zahmaad.github.io/images/CV.pdf
+  - https://zahmaad.github.io/images/Cv.pdf
 ---
 
