@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zubair Ahmad"
+title: "Zubair Ahmad (On Job Market)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -42,7 +42,7 @@ Awards, Honors, and Fellowships
 What's New?
 ======
 
-
+* Dec 2023, Program Committee [MadWeb 2024](https://madweb.work/) (co-located with NDSS 2024)
 * Aug 2023, [Research work](https://dl.acm.org/doi/10.1145/3623382) accepted at ACM Transactions on Web Journal
 * Mar 2023, Joined SWAG research  group at [CISPA](https://cispa.de/en) Germany as a visiting Ph.D. scholar under the supervision of [Ben Stock](https://cispa.de/en/people/ben.stock)
 * May 2022, Had a talk at Ca'Foscari University
