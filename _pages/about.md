@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zubair Ahmad (On Job Market)"
+title: "Zubair Ahmad (On Job Market -> [Check my CV](https://zahmaad.github.io/images/Cv.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
