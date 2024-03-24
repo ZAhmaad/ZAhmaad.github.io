@@ -1,11 +1,7 @@
 ---
-title: "Teaching experience 1"
-collection: Student Mentoring
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Ca'Foscari University"
-date: 2014-01-01
-location: "Venice, Italy"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
