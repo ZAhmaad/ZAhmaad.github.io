@@ -42,6 +42,8 @@ Awards, Honors, and Fellowships
 What's New?
 ======
 
+* July 2024,[Research work](https://link.springer.com/article/10.1007/s10207-024-00886-0) accepted at International Journal of Information Security.
+* May 2024, Successfully defended my Ph.D. thesis titled "Dynamic Taint Tracking for Web Privacy Analysis"
 * Feb 2024, Guest Speaker at [Acronis fireside chat](https://acronis.events/event/protecting-sensitive-data-to-satisfy-nis-2-gdpr-and-other-requirements-eu/) about new EU directive NIS2.
 * Dec 2023, Program Committee [MadWeb 2024](https://madweb.work/) (co-located with NDSS 2024)
 * Aug 2023, [Research work](https://dl.acm.org/doi/10.1145/3623382) accepted at ACM Transactions on Web Journal
