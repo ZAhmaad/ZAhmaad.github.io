@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Scholar at Ca'Foscari University, Venice. My aim is to make the internet a secure place. My research focuses on privacy and security-related issues on the internet,  data measurements, information flow analysis,  and GDPR. I'm currently working  with  [Software and System Verification (SSV)](https://ssv.dais.unive.it/people/)  research group under the supervision of  [Stefano Calzavara](https://www.dais.unive.it/~calzavara/).  I have also worked as a research intern with Secure Web Application Group under the supervision of [Ben Stock](https://swag.cispa.saarland/people/benstock.html) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
+I have secured my PhD degree at Ca'Foscari University Venice, Italy under the supervision of [Stefano Calzavara](https://www.dais.unive.it/~calzavara/). My aim is to make the internet a secure place. My research focuses on privacy and security-related issues on the Internet,  data measurements, information flow analysis, Internet of Things, and GDPR. I have also worked as a research intern with Secure Web Application Group under the supervision of [Ben Stock](https://swag.cispa.saarland/people/benstock.html) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
 
-Before that, I obtained my master's degree in Information and Communication Engineering from CQUPT China in 2019 and got Outstanding Graduate Award. I worked under the supervision of [Rong Chai](https://ieeexplore.ieee.org/author/37591465400). 
+Before that, I obtained my master's degree in Information and Communication Engineering from CQUPT China in 2019 and got Outstanding Graduate Award. During my master's degree, I worked under the supervision of [Rong Chai](https://ieeexplore.ieee.org/author/37591465400) on Internet of Things and Machine-to-Machine Communication. 
 
 My Research interests are:
 ======
 
-* Internet and Web Measurements 
+* Web Security and Privacy
 * Data Privacy and Protection
-* Web Privacy and Security
+* Internet and Web Measurements 
 * EU Compliance regulations, GDPR
+* Internet of Things
 
 If you are interested in any research direction above, feel free to knock me at --> zubair dot ahmad at unive dot com
 
