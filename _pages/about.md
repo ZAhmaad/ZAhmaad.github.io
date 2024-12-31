@@ -21,7 +21,7 @@ My Research interests are:
 * EU Compliance regulations, GDPR
 * Internet of Things
 
-If you are interested in any research direction above, feel free to knock me at --> [email](zubair.ahmad@giki.edu.pk)
+If you are interested in any research direction above, feel free to knock me at --> zubair.ahmad@giki.edu.pk
 
 
 Awards, Honors, and Fellowships
