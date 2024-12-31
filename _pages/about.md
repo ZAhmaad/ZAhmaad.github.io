@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I have secured my PhD degree at Ca'Foscari University Venice, Italy under the supervision of [Stefano Calzavara](https://www.dais.unive.it/~calzavara/). My aim is to make the internet a secure place. My research focuses on privacy and security-related issues on the Internet,  data measurements, information flow analysis, Internet of Things, and GDPR. I have also worked as a research intern with Secure Web Application Group under the supervision of [Ben Stock](https://swag.cispa.saarland/people/benstock.html) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). 
+AOA, I'm an Assistant Professor of Cyber Security at the Faculty of Computer Science and Engineering GIKI. My aim is to make the internet a secure place. My research focuses on privacy and security-related issues on the Internet, web measurements, information flow analysis, Internet of Things, and GDPR.
 
-Before that, I obtained my master's degree in Information and Communication Engineering from CQUPT China in 2019 and got Outstanding Graduate Award. During my master's degree, I worked under the supervision of [Rong Chai](https://ieeexplore.ieee.org/author/37591465400) on Internet of Things and Machine-to-Machine Communication. 
+Previously, I secured my PhD degree at Ca'Foscari University Venice, Italy under the supervision of [Stefano Calzavara](https://www.dais.unive.it/~calzavara/).  I also worked as a research intern with Secure Web Application Group where I was advised by [Ben Stock](https://swag.cispa.saarland/people/benstock.html) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). I obtained my master's degree in Information and Communication Engineering from CQUPT China in 2019 and got an Outstanding Graduate Award. During my master's degree, I worked with [Rong Chai](https://ieeexplore.ieee.org/author/37591465400) on the Internet of Things and Machine-to-Machine Communication. 
 
 My Research interests are:
 ======
@@ -21,7 +21,7 @@ My Research interests are:
 * EU Compliance regulations, GDPR
 * Internet of Things
 
-If you are interested in any research direction above, feel free to knock me at --> zubair dot ahmad at unive dot com
+If you are interested in any research direction above, feel free to knock me at --> [email](zubair.ahmad@giki.edu.pk)
 
 
 Awards, Honors, and Fellowships
@@ -43,7 +43,8 @@ Awards, Honors, and Fellowships
 What's New?
 ======
 
-*  Nov  2024, Program Committee [PETs 2025](https://artifact.petsymposium.org/artifact2025.2/users.php/pc)
+*   Nov 2024, I have joined GIKI as an Assistant Professor (Cyber Security)
+*   Nov 2024, Program Committee [PETs 2025](https://artifact.petsymposium.org/artifact2025.2/users.php/pc)
 *  July 2024, [Research work](https://link.springer.com/article/10.1007/s10207-024-00886-0) accepted at International Journal of Information Security.
 * May 2024, Successfully defended my Ph.D. thesis titled "Dynamic Taint Tracking for Web Privacy Analysis"
 * Feb 2024, Guest Speaker at [Acronis fireside chat](https://acronis.events/event/protecting-sensitive-data-to-satisfy-nis-2-gdpr-and-other-requirements-eu/) about new EU directive NIS2.
