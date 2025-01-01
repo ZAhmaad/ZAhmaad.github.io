@@ -23,6 +23,29 @@ My Research interests are:
 
 If you are interested in any research direction above, ping me at --> zubair.ahmad@giki.edu.pk
 
+What's New?
+======
+
+*  Nov 2024, I have joined GIKI as an Assistant Professor (Cyber Security)
+*  Nov 2024, Program Committee [PETs 2025](https://artifact.petsymposium.org/artifact2025.2/users.php/pc)
+*  July 2024, [Research work](https://link.springer.com/article/10.1007/s10207-024-00886-0) accepted at International Journal of Information Security.
+*  May 2024, Successfully defended my Ph.D. thesis titled "Dynamic Taint Tracking for Web Privacy Analysis"
+*  Feb 2024, Guest Speaker at [Acronis fireside chat](https://acronis.events/event/protecting-sensitive-data-to-satisfy-nis-2-gdpr-and-other-requirements-eu/) about new EU directive NIS2.
+*  Dec 2023, Program Committee [MadWeb 2024](https://madweb.work/) (co-located with NDSS 2024)
+*  Aug 2023, [Research work](https://dl.acm.org/doi/10.1145/3623382) accepted at ACM Transactions on Web Journal
+*  Mar 2023, Joined SWAG research  group at [CISPA](https://cispa.de/en) Germany as a visiting Ph.D. scholar under the supervision of [Ben Stock](https://cispa.de/en/people/ben.stock)
+*  May 2022, Had a talk at Ca'Foscari University
+*  Apr 2022, Presented our paper [Video](https://www.youtube.com/watch?app=desktop&v=5zfHquGGi9U) at Madweb-NDSS 2022 
+*  Feb 2022, [Research work](https://www.ndss-symposium.org/wp-content/uploads/madweb2022_23005_paper.pdf) accepted at Madweb-NDSS 2022
+*  May 2022, Best Performance Award – Venice Universities Model European Union 
+*  May 2021, Best Performance Award – Venice Universities Model European Union 
+*  Jun 2021, Attended Summer School - [OPLSS - USA](https://www.cs.uoregon.edu/research/summerschool/summer21/) 	 	 		
+*  Jun 2019, Outstanding Graduate Award - Master's Degree 2019 					
+*  Jun.2019, Best Paper Award, ChinaCom China
+*  Jun 2019. Best Performance Award – United States Academic Decathlon
+*  Dec 2018, [First Place](https://mp.weixin.qq.com/s/2FbH03J2K8t3vE_Z743XeQ?fbclid=IwAR0i0WwMkm0jSKDfUptispo9eiIWfPn3jnrRUC4GQjg8SzNnzz-Bxo7rblQ) “One Belt One Road Business Idea Challenge, China	
+
+
 
 Awards, Honors, and Fellowships
 ======
@@ -40,27 +63,7 @@ Awards, Honors, and Fellowships
 * Jul. 2016, Chinese Scholarship Award
 
 
-What's New?
-======
 
-*   Nov 2024, I have joined GIKI as an Assistant Professor (Cyber Security)
-*   Nov 2024, Program Committee [PETs 2025](https://artifact.petsymposium.org/artifact2025.2/users.php/pc)
-*  July 2024, [Research work](https://link.springer.com/article/10.1007/s10207-024-00886-0) accepted at International Journal of Information Security.
-* May 2024, Successfully defended my Ph.D. thesis titled "Dynamic Taint Tracking for Web Privacy Analysis"
-* Feb 2024, Guest Speaker at [Acronis fireside chat](https://acronis.events/event/protecting-sensitive-data-to-satisfy-nis-2-gdpr-and-other-requirements-eu/) about new EU directive NIS2.
-* Dec 2023, Program Committee [MadWeb 2024](https://madweb.work/) (co-located with NDSS 2024)
-* Aug 2023, [Research work](https://dl.acm.org/doi/10.1145/3623382) accepted at ACM Transactions on Web Journal
-* Mar 2023, Joined SWAG research  group at [CISPA](https://cispa.de/en) Germany as a visiting Ph.D. scholar under the supervision of [Ben Stock](https://cispa.de/en/people/ben.stock)
-* May 2022, Had a talk at Ca'Foscari University
-* Apr 2022, Presented our paper [Video](https://www.youtube.com/watch?app=desktop&v=5zfHquGGi9U) at Madweb-NDSS 2022 
-* Feb 2022, [Research work](https://www.ndss-symposium.org/wp-content/uploads/madweb2022_23005_paper.pdf) accepted at Madweb-NDSS 2022
-* May 2022, Best Performance Award – Venice Universities Model European Union 
-* May 2021, Best Performance Award – Venice Universities Model European Union 
-* Jun 2021, Attended Summer School - [OPLSS - USA](https://www.cs.uoregon.edu/research/summerschool/summer21/) 	 	 		
-* Jun 2019, Outstanding Graduate Award - Master's Degree 2019 					
-* Jun.2019, Best Paper Award, ChinaCom China
-* Jun 2019. Best Performance Award – United States Academic Decathlon
-* Dec 2018, [First Place](https://mp.weixin.qq.com/s/2FbH03J2K8t3vE_Z743XeQ?fbclid=IwAR0i0WwMkm0jSKDfUptispo9eiIWfPn3jnrRUC4GQjg8SzNnzz-Bxo7rblQ) “One Belt One Road Business Idea Challenge, China	
 
 
 
