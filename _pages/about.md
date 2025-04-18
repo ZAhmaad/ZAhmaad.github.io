@@ -26,6 +26,7 @@ If you are interested in any research direction above, ping me at --> zubair.ahm
 What's New?
 ======
 
+*  Feb 2025, Abdullah AlHamdan from CISPA Germany joined us as a guest speaker at GIKI and talked about the security testing of JavaScript Sandboxes
 *  Nov 2024, I have joined GIKI as an Assistant Professor (Cyber Security)
 *  Nov 2024, Program Committee [PETs 2025](https://artifact.petsymposium.org/artifact2025.2/users.php/pc)
 *  July 2024, [Research work](https://link.springer.com/article/10.1007/s10207-024-00886-0) accepted at International Journal of Information Security.
@@ -33,7 +34,7 @@ What's New?
 *  Feb 2024, Guest Speaker at [Acronis fireside chat](https://acronis.events/event/protecting-sensitive-data-to-satisfy-nis-2-gdpr-and-other-requirements-eu/) about new EU directive NIS2.
 *  Dec 2023, Program Committee [MadWeb 2024](https://madweb.work/) (co-located with NDSS 2024)
 *  Aug 2023, [Research work](https://dl.acm.org/doi/10.1145/3623382) accepted at ACM Transactions on Web Journal
-*  Mar 2023, Joined SWAG research  group at [CISPA](https://cispa.de/en) Germany as a visiting Ph.D. scholar under the supervision of [Ben Stock](https://cispa.de/en/people/ben.stock)
+*  Mar 2023, Joined SWAG research  group at [CISPA](https://cispa.de/en), Germany as a visiting Ph.D. scholar under the supervision of [Ben Stock](https://cispa.de/en/people/ben.stock)
 *  May 2022, Had a talk at Ca'Foscari University
 *  Apr 2022, Presented our paper [Video](https://www.youtube.com/watch?app=desktop&v=5zfHquGGi9U) at Madweb-NDSS 2022 
 *  Feb 2022, [Research work](https://www.ndss-symposium.org/wp-content/uploads/madweb2022_23005_paper.pdf) accepted at Madweb-NDSS 2022
