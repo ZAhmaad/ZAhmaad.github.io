@@ -26,6 +26,9 @@ If you are interested in any research direction above, ping me at --> zubair.ahm
 What's New?
 ======
 
+
+*  May 2025, Program Committee [FIT'25](https://fit.edu.pk/)
+*  May 2025, Poster accepted at PETs 2025
 *  Feb 2025, Abdullah AlHamdan from CISPA Germany joined us as a guest speaker at GIKI and talked about the security testing of JavaScript Sandboxes
 *  Nov 2024, I have joined GIKI as an Assistant Professor (Cyber Security)
 *  Nov 2024, Program Committee [PETs 2025](https://artifact.petsymposium.org/artifact2025.2/users.php/pc)
