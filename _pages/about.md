@@ -27,6 +27,7 @@ What's New?
 ======
 
 
+*  July 2025, Program Committee AsiaCCS 2026
 *  May 2025, Program Committee [FIT'25](https://fit.edu.pk/)
 *  May 2025, Poster accepted at PETs 2025
 *  Feb 2025, Abdullah AlHamdan from CISPA Germany joined us as a guest speaker at GIKI and talked about the security testing of JavaScript Sandboxes
