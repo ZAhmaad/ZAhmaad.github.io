@@ -27,6 +27,7 @@ What's New?
 ======
 
 
+*  Dec, 2025, Katharina Krombholz from CISPA Germany visited GIKI and gave two amazing talks
 *  July 2025, Program Committee AsiaCCS 2026
 *  May 2025, Program Committee [FIT'25](https://fit.edu.pk/)
 *  May 2025, Poster accepted at PETs 2025
