@@ -27,6 +27,8 @@ What's New?
 ======
 
 
+*  June, 2026, My student Ummama Khan will join CISPA Germany for summer research internship.
+*  Jan, 2026, Research visit to CISPA Germany.
 *  Dec, 2025, Katharina Krombholz from CISPA Germany visited GIKI and gave two amazing talks
 *  July 2025, Program Committee AsiaCCS 2026
 *  May 2025, Program Committee [FIT'25](https://fit.edu.pk/)
