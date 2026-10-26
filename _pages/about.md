@@ -27,6 +27,7 @@ What's New?
 ======
 
 
+*  Oct, 2026,  [Foxy Audit](https://foxyaudit.tech/), A startup project led by my students Fatima and Ali selected in WISE Lab
 *  June, 2026, My student Ummama Khan will join CISPA Germany for summer research internship.
 *  Jan, 2026, Research visit to CISPA Germany.
 *  Dec, 2025, Katharina Krombholz from CISPA Germany visited GIKI and gave two amazing talks
